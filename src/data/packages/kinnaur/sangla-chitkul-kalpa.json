@@ -1,0 +1,76 @@
+{
+  "name": "Sangla Chitkul Kalpa Tour Package",
+  "slug": "sangla-chitkul-kalpa",
+  "duration": "5 Nights / 6 Days",
+  "category": "Kinnaur Valley Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Chitkul_Village.jpg/1280px-Chitkul_Village.jpg",
+  "overview": "Immerse yourself in the breathtaking beauty of the Baspa and Satluj valleys with our 'Sangla Chitkul Kalpa Tour.' This 6-day journey is a deep dive into the heart of Kinnaur, visiting the last inhabited village on the Indo-Tibet border, Chitkul, and the sacred peak views of Kalpa. Perfect for those who seek tranquility, authentic mountain culture, and dramatic landscapes, this package offers a soul-stirring escape into the high Himalayas.",
+  "destinations": ["Chandigarh", "Shimla", "Sangla", "Chitkul", "Kalpa", "Sarahan"],
+  "highlights": [
+    "Comprehensive tour of Kinnaur's most iconic villages",
+    "Stay in the lush Sangla Valley, the most beautiful valley in Himachal",
+    "Visit Chitkul, the last village on the ancient Hindustan-Tibet trade route",
+    "Witness the majestic Kinnaur Kailash peaks from your balcony in Kalpa",
+    "Explore the unique wooden architecture of Kamru Fort and Bhimakali Temple",
+    "Scenic drives through the rugged Satluj River canyon",
+    "Private SUV for safe and comfortable travel on high-altitude roads"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla/Narkanda - The Ascent Begins",
+      "description": "Meet our representative at Chandigarh and drive toward the hills. Stay overnight in Shimla or Narkanda to acclimatize and enjoy the initial mountain views."
+    },
+    {
+      "day": 2,
+      "title": "Narkanda to Sangla - Into the Baspa Valley",
+      "description": "Drive through the dramatic Hindustan-Tibet road along the Satluj River. Enter the Baspa Valley and reach Sangla by evening. Check in to your guest house or riverside camp."
+    },
+    {
+      "day": 3,
+      "title": "Chitkul & Sangla Exploration",
+      "description": "Visit Chitkul, the last village on the Indo-Tibet border. Enjoy a walk by the Baspa River and visit the local temple. Later, explore the heritage Kamru Fort in Sangla."
+    },
+    {
+      "day": 4,
+      "title": "Sangla to Kalpa - Facing the Kailash",
+      "description": "Travel to Kalpa, perched high above the Satluj River. Spend the afternoon witnessing the stunning Kinnaur Kailash peaks. Visit the Roghi village and local Buddhist monasteries."
+    },
+    {
+      "day": 5,
+      "title": "Kalpa to Sarahan - The Heritage Stop",
+      "description": "Begin your return journey with a stop at Sarahan. Visit the legendary Bhimakali Temple, a masterpiece of Indo-Tibetan architecture, and enjoy the peaceful surroundings."
+    },
+    {
+      "day": 6,
+      "title": "Sarahan to Chandigarh - Final Departure",
+      "description": "Descend back to Chandigarh (270 km, 8-9 hours). Reflect on your Kinnaur memories as our driver drops you at the airport or railway station."
+    }
+  ],
+  "inclusions": [
+    "Private high-clearance SUV (Innova/Crysta) for the entire tour",
+    "5 Nights stay in verified premium guest houses and boutique hotels",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "Professional driver with specialized Kinnaur route experience",
+    "All toll taxes, parking, and state permits included",
+    "Pickup and Drop at Chandigarh"
+  ],
+  "exclusions": [
+    "Airfare or Train tickets",
+    "Lunch and mid-day snacks",
+    "Entry fees to temples and forts",
+    "Personal expenses",
+    "Travel insurance",
+    "Anything not mentioned in inclusions"
+  ],
+  "faqs": [
+    {
+      "question": "Is the road to Chitkul safe?",
+      "answer": "Yes, but the roads are narrow and dramatic. We use experienced mountain drivers and well-maintained SUVs for all our Kinnaur tours."
+    },
+    {
+      "question": "What kind of clothing should I carry?",
+      "answer": "Even in summer, Kinnaur can be cold at night. We recommend carrying heavy woollens for evenings and light layers for the day."
+    }
+  ]
+}

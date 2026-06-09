@@ -1,0 +1,95 @@
+{
+  "name": "Heavenly Himachal Tour Package",
+  "slug": "heavenly-himachal",
+  "duration": "9 Nights / 10 Days",
+  "category": "Complete Himachal Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dhauladhar_alpenglow_above_Dharamshala%2C_India.jpg/1280px-Dhauladhar_alpenglow_above_Dharamshala%2C_India.jpg",
+  "overview": "Immerse yourself in the celestial beauty of the Himalayas with our 'Heavenly Himachal Tour Package.' This 10-day retreat is designed for those who want to experience the grandeur of Himachal Pradesh at a relaxed and soulful pace. From the misty ridge of Shimla to the snow-covered Solang Valley in Manali, the spiritual vibes of Dharamshala, and the emerald meadows of Dalhousie, this tour offers a truly heavenly escape from the mundane.",
+  "destinations": ["Chandigarh", "Shimla", "Kufri", "Manali", "Solang Valley", "Rohtang Pass", "Dharamshala", "Dalhousie", "Khajjiar"],
+  "highlights": [
+    "Extended 10-day circuit for a relaxed and deep exploration",
+    "Panoramic views of the Dhauladhar and Pir Panjal ranges",
+    "Spiritual stay in McLeod Ganj, the home of the Dalai Lama",
+    "Visit to the world-famous Rohtang Pass (subject to permits)",
+    "Slow travel through the Palampur tea gardens and Kangra Valley",
+    "Stay in handpicked mountain resorts with premium amenities",
+    "Private cab with a professional mountain driver for the entire journey"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla - The Ascent Begins",
+      "description": "Meet our representative at Chandigarh and start your journey to Shimla. Enjoy the 5-hour drive through the green foothills. Reach Shimla by evening, check in to your hotel, and spend a peaceful night in the 'Queen of Hills'."
+    },
+    {
+      "day": 2,
+      "title": "Shimla & Kufri Sightseeing",
+      "description": "Explore the Kufri highlands, Green Valley, and the Himalayan Nature Park. Return to Shimla for a heritage walk on the Mall Road, visiting the Ridge, Christ Church, and Jakhu Temple."
+    },
+    {
+      "day": 3,
+      "title": "Shimla to Manali via Kullu",
+      "description": "A full-day scenic drive to Manali. Stop at Pandoh Dam and visit the Kullu Shawl factories. Enjoy the river-side views as you enter the Manali valley by evening."
+    },
+    {
+      "day": 4,
+      "title": "Manali Local Cultural Tour",
+      "description": "Visit the Hadimba Devi Temple, Vashisht Hot Springs, and the Tibetan Monastery. Spend your afternoon at the Mall Road or in the quaint cafes of Old Manali."
+    },
+    {
+      "day": 5,
+      "title": "Solang Valley & Rohtang Pass",
+      "description": "Head to Solang Valley for adventure sports. If permits allow, proceed to the Rohtang Pass for a spectacular snow-point experience and glacier views."
+    },
+    {
+      "day": 6,
+      "title": "Manali to Dharamshala - Valley to Foothills",
+      "description": "Travel from Manali to Dharamshala, passing through the beautiful Palampur tea gardens. Arrive in the evening and relax at your hotel in the Dhauladhar foothills."
+    },
+    {
+      "day": 7,
+      "title": "McLeod Ganj & Dharamshala Local",
+      "description": "Visit the Dalai Lama Temple, Bhagsu Waterfall, and the St. John in the Wilderness Church. Explore the Tibetan markets for authentic souvenirs."
+    },
+    {
+      "day": 8,
+      "title": "Dharamshala to Dalhousie",
+      "description": "A short 4-5 hour drive to Dalhousie. Spend your afternoon exploring the local colonial churches and enjoying the quiet mountain air."
+    },
+    {
+      "day": 9,
+      "title": "Khajjiar - The Mini Switzerland",
+      "description": "Spend the day at Khajjiar's vast meadows and cedar forests. Visit the Khajji Nag Temple and enjoy the serene environment of this 'Mini Switzerland'."
+    },
+    {
+      "day": 10,
+      "title": "Dalhousie to Chandigarh - Final Drop",
+      "description": "Begin your descent to the plains. Drive back to Chandigarh (300 km, 8-9 hours) for your departure from the airport or railway station."
+    }
+  ],
+  "inclusions": [
+    "Private cab (Sedan/SUV) for 10 days of travel",
+    "9 Nights stay in premium verified hotels",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "All toll, parking, fuel, and state taxes included",
+    "Pickup and Drop at Chandigarh",
+    "24/7 dedicated support desk"
+  ],
+  "exclusions": [
+    "Airfare/Train tickets",
+    "Lunch and snacks",
+    "Entry fees and activity charges",
+    "Rohtang Pass permit and local cab if required",
+    "Personal expenses"
+  ],
+  "faqs": [
+    {
+      "question": "Is Rohtang Pass guaranteed?",
+      "answer": "Rohtang Pass is subject to weather conditions and NGT permit availability. We assist in the process, but it is not guaranteed."
+    },
+    {
+      "question": "Can we extend the stay in Manali?",
+      "answer": "Yes, all our packages are 100% customizable. We can add nights as per your preference."
+    }
+  ]
+}

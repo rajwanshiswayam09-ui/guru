@@ -1,0 +1,100 @@
+{
+  "name": "Desired Spiti Valley Circuit",
+  "slug": "desired-spiti",
+  "duration": "9 Nights / 10 Days",
+  "category": "Kinnaur And Spiti Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Key_Monastery%2C_Spiti_Valley%2C_Himachal_Pradesh.jpg/1280px-Key_Monastery%2C_Spiti_Valley%2C_Himachal_Pradesh.jpg",
+  "overview": "The Desired Spiti Valley Circuit is a dream come true for those seeking the ultimate high-altitude adventure. This 10-day journey takes you through the very heart of the trans-Himalayas, combining the lush valleys of Kinnaur with the stark desert beauty of Spiti. Witness the ancient monasteries of Tabo and Dhankar, visit the world's highest post office at Hikkim, and spend a magical night by the Moon Lake, Chandratal. Every moment is designed to fulfill your desire for a transformative mountain experience.",
+  "destinations": ["Chandigarh", "Shimla", "Sangla", "Chitkul", "Kalpa", "Nako", "Tabo", "Kaza", "Key Monastery", "Chandratal Lake"],
+  "highlights": [
+    "Comprehensive Spiti Valley circuit including Kinnaur's Baspa Valley.",
+    "Visit the 1000-year-old Tabo Monastery and the cliff-side Dhankar.",
+    "Stay by the ethereal Chandratal Lake (The Moon Lake).",
+    "Send a postcard from the world's highest post office at Hikkim.",
+    "Marvel at the fossils and the giant Buddha statue in Langza village.",
+    "Private SUV for safe travel through the Kunzum Pass and rugged terrain.",
+    "Professional mountain driver with specialized Spiti route expertise."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla (130 Km, 3-4 Hrs)",
+      "description": "Pickup from Chandigarh and drive to Shimla. Enjoy the scenic transition to the mountains. Check into your hotel and spend the evening on the Mall Road."
+    },
+    {
+      "day": 2,
+      "title": "Shimla to Sangla (220 Km, 7-8 Hrs)",
+      "description": "Drive through the dramatic Hindustan-Tibet road along the Satluj River. Enter the Baspa Valley and reach Sangla by evening. Check into your guest house."
+    },
+    {
+      "day": 3,
+      "title": "Sangla and Chitkul Excursion",
+      "description": "Visit Chitkul, the last inhabited village on the Indo-Tibet border. Enjoy a walk by the Baspa River and explore the local culture."
+    },
+    {
+      "day": 4,
+      "title": "Sangla to Kalpa (40 Km, 2-3 Hrs)",
+      "description": "Travel to Kalpa, perched high above the Satluj River. Witness the stunning Kinnaur Kailash peaks and visit the local monasteries."
+    },
+    {
+      "day": 5,
+      "title": "Kalpa to Tabo via Nako",
+      "description": "Drive through the rain-shadow region. Visit Nako Lake and continue to Tabo, home to the 1000-year-old monastery."
+    },
+    {
+      "day": 6,
+      "title": "Tabo to Kaza via Dhankar",
+      "description": "Visit the Dhankar Monastery, dramatically perched on a cliff. Proceed to Kaza, the administrative hub of Spiti Valley."
+    },
+    {
+      "day": 7,
+      "title": "Kaza Local: Key & Highest Villages",
+      "description": "Visit the iconic Key Monastery and the high villages of Hikkim, Langza, and Komic."
+    },
+    {
+      "day": 8,
+      "title": "Kaza to Chandratal Lake",
+      "description": "Drive toward the ethereal Chandratal Lake. Cross the Kunzum Pass and reach the camping site near the Moon Lake."
+    },
+    {
+      "day": 9,
+      "title": "Chandratal to Manali via Atal Tunnel",
+      "description": "Begin the return journey toward Manali. Retrace the path through the Lahaul Valley and cross the Atal Tunnel."
+    },
+    {
+      "day": 10,
+      "title": "Manali to Chandigarh Drop",
+      "description": "After breakfast, drive back to Chandigarh for your departure."
+    }
+  ],
+  "inclusions": [
+    "Private SUV (Innova/Crysta) for the entire 10-day tour.",
+    "9 Nights stay in handpicked verified hotels and camps.",
+    "Daily Breakfast and Dinner (MAP Plan).",
+    "Professional driver with specialized Spiti route expertise.",
+    "All toll taxes, parking, and state permits included.",
+    "Oxygen cylinder support for high-altitude safety."
+  ],
+  "exclusions": [
+    "Airfare or Train tickets.",
+    "Lunch and mid-day snacks.",
+    "Entry fees to monasteries and museums.",
+    "Personal expenses.",
+    "Anything not mentioned in inclusions.",
+    "Travel insurance."
+  ],
+  "faqs": [
+    {
+      "question": "Is camping at Chandratal safe?",
+      "answer": "Yes, we use luxury tents with proper bedding and provide high-altitude support. However, it can be very cold at night."
+    },
+    {
+      "question": "Do I need a permit for Spiti?",
+      "answer": "Foreign nationals require an Inner Line Permit for certain areas. Indian nationals do not require permits but must carry valid ID proof."
+    }
+  ],
+  "seo": {
+    "title": "Desired Spiti Valley Circuit | Guru Kripa Travels",
+    "description": "Experience a 9 nights 10 days comprehensive Spiti Valley circuit. Covers Tabo, Dhankar, Kaza, and the magical Chandratal Lake."
+  }
+}

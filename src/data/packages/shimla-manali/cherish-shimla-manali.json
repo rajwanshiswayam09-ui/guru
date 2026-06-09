@@ -1,0 +1,80 @@
+{
+  "name": "Cherish Shimla Manali Tour From Delhi",
+  "slug": "cherish-shimla-manali",
+  "duration": "5 Nights / 6 Days",
+  "category": "Shimla Manali Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Solang_Valley_%2CManali%2C_Himachal_Pardes%2C_India.JPG/1280px-Solang_Valley_%2CManali%2C_Himachal_Pardes%2C_India.JPG",
+  "overview": "A break from city life can completely rejuvenate you. However, most people don't book a holiday tour because of the planning part. Ideally, the Shimla Manali tour from Delhi is the best tour you can consider with a customized itinerary. With Delhi to Shimla Manali taxi services, you will have an amazing time on your trip. The tour will provide you with the best travel experience and holiday that will leave an imprint on your heart. Traveling through different routes will ensure you have a splendid time exploring the regions in Himachal. The route looks even more wonderful during winter.",
+  "destinations": ["Delhi", "Shimla", "Kufri", "Kullu", "Manali", "Solang Valley"],
+  "highlights": [
+    "Shimla is the best escape if you want to take a break from routine. You can visit ancient temples, nature parks, and historical institutes.",
+    "In winter, Shimla transforms into a snow-covered wonderland, perfect for snow fun and adventure activities.",
+    "Manali offers lake views, peaks, snow adventures, and peaceful monasteries, making it an ideal family destination.",
+    "The journey includes scenic drives through different routes of Himachal Pradesh.",
+    "Customized itinerary with Delhi to Shimla Manali taxi services."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Delhi to Shimla (370 Km, 7-8 Hrs)",
+      "description": "On reaching Delhi, our driver will pick you up from the Delhi airport /Railway station and take you to Shimla via road. The drive to Shimla will be long but wonderful. You can stop at popular tourist spots like Pinjore Garden and Timber Trail on your way. On reaching Shimla, you can check into your hotel and freshen up. You are then free to visit the local Shimla market. Have your dinner and retire for the day."
+    },
+    {
+      "day": 2,
+      "title": "Shimla-Kufri Local sightseeing",
+      "description": "Get ready for the local Shimla excursion after a delicious breakfast. Visit Kufri, Green Valley, the Indian Institute of Advanced Studies, and the Jakhoo Temple. Kufri is famous for snow adventure activities. In the evening, explore the vibrant Mall Road, Ridge, Christ Church, and Gaiety Theatre. Return to your hotel for dinner and rest."
+    },
+    {
+      "day": 3,
+      "title": "Transfer From Shimla to Manali (260 km / 7-8hrs)",
+      "description": "Check out from your hotel after breakfast. Today, travel to Manali. The drive is beautiful, passing through Sundernagar, Mandi, Pandoh Dam, Hanogi Devi temple, and Kullu. You can visit a shawl-making factory in Kullu. On reaching Manali, check in and explore the local markets. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 4,
+      "title": "Manali to Solang Valley and Rohtang Pass",
+      "description": "Visit Solang Valley and Rohtang Pass (subject to permit). Rohtang Pass offers unmatched views of snow-clad peaks. At Solang Valley, try skiing, paragliding, or snow scooter rides. Return to the hotel in the evening for dinner."
+    },
+    {
+      "day": 5,
+      "title": "Manali Local Sightseeing",
+      "description": "Explore local Manali attractions including Hadimba Devi Temple, Vashisht Village (famous for hot springs), and the Tibetan Monastery. The evening is free for shopping at the Mall Road and exploring the local vibe. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 6,
+      "title": "Manali to Delhi Drop (570 Km, 12-13 Hrs)",
+      "description": "After an early breakfast, begin your return journey to Delhi. Our driver will drop you at the Delhi airport or railway station for your onward journey."
+    }
+  ],
+  "inclusions": [
+    "Pickup & Drop from Delhi.",
+    "5 Nights stay in handpicked hotels.",
+    "Daily Breakfast and Dinner.",
+    "All sightseeing's by individual car.",
+    "Transfers: Destination-Hotel-Destination.",
+    "All toll taxes, parking fees and driver's allowance.",
+    "Inclusive of all taxes."
+  ],
+  "exclusions": [
+    "Charges for early Check-In & late Check-Out at Hotel.",
+    "Rohtang Pass Charges",
+    "Lunch & Snacks.",
+    "Air fare/ train fare.",
+    "Monuments Entrance fees during sightseeing.",
+    "Camera Charges/Rides etc.",
+    "5% Goods And Services Tax(GST)"
+  ],
+  "faqs": [
+    {
+      "question": "How long is the drive from Delhi to Shimla?",
+      "answer": "It is approximately 370 km and takes about 7-8 hours by road."
+    },
+    {
+      "question": "Is the Delhi to Manali route scenic?",
+      "answer": "Yes, especially the stretch along the Beas River and through the Kullu Valley."
+    }
+  ],
+  "seo": {
+    "title": "Cherish Shimla Manali Tour From Delhi | Guru Kripa Travels",
+    "description": "Experience a cherished 5 nights 6 days Shimla Manali tour from Delhi with private taxi. Explore snow peaks, heritage temples, and local culture."
+  }
+}

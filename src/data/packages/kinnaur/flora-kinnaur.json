@@ -1,0 +1,78 @@
+{
+  "name": "Flora Kinnaur Valley Tour Package",
+  "slug": "flora-kinnaur",
+  "duration": "5 Nights / 6 Days",
+  "category": "Kinnaur Valley Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kinnaur_Kailash_from_Kalpa.jpg/1280px-Kinnaur_Kailash_from_Kalpa.jpg",
+  "overview": "Kinnaur is renowned as God's Land, adorned with lush green valleys and towering mountains that seem to touch the sky. To truly immerse yourself in the splendor of this region, consider booking a Kinnaur valley tour. The journey promises an unforgettable experience as you traverse through captivating landscapes and explore hidden gems. For a seamless and enriching travel experience, opting for a cab or taxi tour is highly recommended. This mode of transportation allows you to soak in the scenic beauty at your own pace while expert drivers navigate the winding mountain roads.",
+  "destinations": ["Chandigarh", "Shimla", "Sangla", "Chitkul", "Kalpa", "Kinnaur Kailash"],
+  "highlights": [
+    "Sangla, nestled in the Baspa Valley, is a picturesque village known for its apple orchards and traditional wooden houses.",
+    "Chitkul, the last inhabited village near the Indo-Tibet border, offers breathtaking views of the Himalayas.",
+    "Kalpa, situated at an altitude of 2,960 meters, provides a stunning panoramic view of the Kinner Kailash range.",
+    "Kinnaur is a paradise for nature lovers and adventure enthusiasts alike, offering a perfect blend of tranquility and excitement.",
+    "Expert drivers ensure a safe and enjoyable journey through the winding mountain roads."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla (130 Km, 3-4 Hrs)",
+      "description": "Upon arrival at Chandigarh airport or railway station, our driver will pick you up and take you to Shimla. The drive to Shimla is incredibly scenic, offering breathtaking views of the mountains. Along the way, you can visit popular tourist spots such as Pinjore Garden and Timber Trail. Once you reach Shimla, check into your hotel and freshen up. You can then spend the evening exploring the local markets of Shimla. Enjoy your dinner and rest for the night."
+    },
+    {
+      "day": 2,
+      "title": "Shimla to Sangla (220 Km, 7-8 Hrs)",
+      "description": "After a delicious breakfast, check out from your hotel as we head towards Sangla. The journey to Sangla is filled with mesmerizing landscapes and winding roads. As you travel through the valleys, you'll be captivated by the natural beauty surrounding you. Upon reaching Sangla, check into your hotel and unwind. Spend the evening at your leisure, perhaps taking a stroll through the village. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 3,
+      "title": "Sangla and Chitkul Excursion",
+      "description": "Today is all about exploring the beauty of Sangla and the last inhabited village, Chitkul. After breakfast, we'll visit the Kamru Fort in Sangla, known for its unique architecture. Then, we'll head towards Chitkul, which offers unparalleled views of the Himalayas. You can spend time exploring the village and interacting with the locals. Return to Sangla in the evening for dinner and overnight stay."
+    },
+    {
+      "day": 4,
+      "title": "Sangla to Kalpa (40 Km, 2-3 Hrs)",
+      "description": "After breakfast, we'll drive towards Kalpa, another gem of the Kinnaur valley. The short drive to Kalpa is incredibly scenic, with views of the snow-capped peaks. Upon arrival, check into your hotel and freshen up. Later, visit the popular attractions in Kalpa, including the Hu-Bu-Lan-Kar Monastery and the Narayan-Nagini Temple. Don't miss the stunning sunset over the Kinner Kailash range. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 5,
+      "title": "Kalpa to Shimla (220 Km, 7-8 Hrs)",
+      "description": "It's time to bid farewell to the beautiful Kinnaur valley as we head back towards Shimla. After breakfast, check out from your hotel and begin the journey. Enjoy the last glimpses of the majestic mountains as you travel back. Upon reaching Shimla, check into your hotel and relax. Spend the evening at your leisure. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 6,
+      "title": "Shimla to Chandigarh Drop (130 Km, 3-4 Hrs)",
+      "description": "On the final day of your tour, have your breakfast and check out from the hotel. Our driver will then take you back to Chandigarh and drop you at the airport or railway station for your onward journey. Cherish the memories of your unforgettable Kinnaur valley tour."
+    }
+  ],
+  "inclusions": [
+    "Pickup & Drop.",
+    "5 Nights stay in handpicked hotels.",
+    "Daily Breakfast and Dinner.",
+    "All sightseeing's by individual car.",
+    "All toll taxes, parking fees and driver's allowance.",
+    "Inclusive of all taxes."
+  ],
+  "exclusions": [
+    "Charges for early Check-In & late Check-Out at Hotel.",
+    "Lunch & Snacks.",
+    "Air fare/ train fare.",
+    "Monuments Entrance fees during sightseeing.",
+    "Camera Charges/Rides etc.",
+    "5% Goods And Services Tax(GST)"
+  ],
+  "faqs": [
+    {
+      "question": "Is Kinnaur safe for travel?",
+      "answer": "Yes, but the roads are dramatic. We use experienced drivers and well-maintained SUVs to ensure complete safety."
+    },
+    {
+      "question": "What is the best time for Kinnaur?",
+      "answer": "May to June for greenery and pleasant weather, and September to October for the famous apple harvest season."
+    }
+  ],
+  "seo": {
+    "title": "Flora Kinnaur Valley Tour Package | Guru Kripa Travels",
+    "description": "Book our 5 nights 6 days Flora Kinnaur Valley tour package from Chandigarh. Explore Sangla, Chitkul, and Kalpa with a private taxi and expert driver."
+  }
+}

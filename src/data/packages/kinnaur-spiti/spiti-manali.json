@@ -1,0 +1,75 @@
+{
+  "name": "Spiti Valley Tour From Manali",
+  "slug": "spiti-manali",
+  "duration": "4 Nights / 5 Days",
+  "category": "Kinnaur And Spiti Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Key_Monastery%2C_Spiti_Valley%2C_Himachal_Pradesh.jpg/1280px-Key_Monastery%2C_Spiti_Valley%2C_Himachal_Pradesh.jpg",
+  "overview": "Spiti Valley, often referred to as the 'Middle Land,' is a high-altitude desert known for its stark beauty and ancient monasteries. Our Spiti Valley Tour from Manali is designed for those who want to witness the raw and transformative landscapes of the trans-Himalayas. Traveling through the engineering marvel of the Atal Tunnel and crossing high-mountain passes, you will explore the spiritual heart of Kaza and Key Monastery. The journey to Spiti's lakes is a delightful experience for any traveler, promising a one-of-a-kind adventure that will leave you with cherished memories.",
+  "destinations": ["Manali", "Atal Tunnel", "Kaza", "Key Monastery", "Kibber", "Langza", "Kunzum Pass"],
+  "highlights": [
+    "Cross the majestic Atal Tunnel and Kunzum Pass (4,558 meters).",
+    "Visit the iconic Key Monastery, a masterpiece of Tibetan architecture.",
+    "Explore Kibber, one of the world's highest inhabited villages.",
+    "Marvel at the splendid beauty of CB ranges and snow-clad glaciers from Kunzum Pass.",
+    "Discover the fossil village of Langza and its giant Buddha statue.",
+    "Private high-clearance SUV for safe travel on rugged Spiti roads.",
+    "Professional driver with expertise in trans-Himalayan routes."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Manali to Kaza (205 Km, 10-11 Hrs)",
+      "description": "Once you reach Manali, our driver will pick you up from the spot or hotel and take you to your first destination - Kaza. The drive to Kaza will be fascinating with all the wonderful scenic views. On the way, you can request a tea break or relaxation break. Batal is the ideal place to stop for lunch. After which, you will pass through the two highest passes in the region, one being Kunzum Pass (4,558 meters). There is a small temple near the pass, and you can seek blessings before you begin your drive ahead. Ideally, you can witness the splendid beauty of CB ranges and snow-clad glaciers from the Pass. On reaching Kaza, you can check into your hotel and relax. Have dinner and retire for the day - the new dawn awaits you."
+    },
+    {
+      "day": 2,
+      "title": "Sightseeing around Kaza",
+      "description": "Get up to the breathtaking beauty of Kaza. Have your delicious breakfast and head for a local tour around Kaza. Your first stop will be the village of Langza, famous for its ancient fossils and the giant Buddha statue. Then, visit the iconic Key Monastery, perched on a hilltop, offering panoramic views of the Spiti River. Later, drive to Kibber village, known for its high-altitude wildlife. Return to Kaza in the evening for dinner and overnight stay."
+    },
+    {
+      "day": 3,
+      "title": "Kaza to Hikkim, Komic and Langza Excursion",
+      "description": "After breakfast, we'll visit the highest villages in the world. First, head to Hikkim, home to the world's highest post office. Then, visit Komic, the highest village connected by a motorable road. Explore the local life and the monasteries in these remote regions. Return to Kaza for the night and enjoy the star-lit sky. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 4,
+      "title": "Kaza to Manali (205 Km, 10-11 Hrs)",
+      "description": "Bid farewell to the cold desert of Spiti. After breakfast, begin your return journey to Manali. Retrace the scenic path through the Kunzum Pass and the Lahaul Valley. Stop for lunch at Batal or Sissu. Pass through the Atal Tunnel and arrive in Manali by evening. Check into your hotel and relax. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 5,
+      "title": "Manali Departure",
+      "description": "After breakfast, check out from the hotel. Our driver will drop you at the Manali bus stand or coordinate your onward travel towards Chandigarh/Delhi. Cherish the memories of your Spiti Valley adventure."
+    }
+  ],
+  "inclusions": [
+    "Pickup & Drop.",
+    "4 Nights stay in verified guest houses or hotels.",
+    "Daily Breakfast and Dinner.",
+    "All sightseeing's by individual car (Innova/Crysta).",
+    "All toll taxes, parking fees and driver's allowance.",
+    "Inclusive of all taxes."
+  ],
+  "exclusions": [
+    "Charges for early Check-In & late Check-Out at Hotel.",
+    "Lunch & Snacks.",
+    "Air fare/ train fare.",
+    "Monuments Entrance fees during sightseeing.",
+    "Camera Charges/Rides etc.",
+    "5% Goods And Services Tax(GST)"
+  ],
+  "faqs": [
+    {
+      "question": "Is Spiti safe for everyone?",
+      "answer": "Spiti is a high-altitude region (above 12,000 ft). We recommend it for physically fit travelers and advise proper acclimatization."
+    },
+    {
+      "question": "What is the best time for this tour?",
+      "answer": "June to September is the best time when the passes are open and the weather is stable."
+    }
+  ],
+  "seo": {
+    "title": "Spiti Valley Tour Package From Manali | Guru Kripa Travels",
+    "description": "Book our 4 nights 5 days Spiti Valley tour from Manali. Explore Kaza, Key Monastery, and the high-altitude desert with a private 4x4 SUV."
+  }
+}

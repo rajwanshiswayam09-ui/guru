@@ -1,0 +1,71 @@
+{
+  "name": "Lovable Manali Honeymoon Package",
+  "slug": "lovable-manali",
+  "duration": "4 Nights / 5 Days",
+  "category": "Manali Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hadimba_temple_manali.jpg/1280px-Hadimba_temple_manali.jpg",
+  "overview": "Celebrate your new beginning with our 'Lovable Manali Honeymoon Package.' This specially curated 5-day romantic retreat is designed to offer intimacy, adventure, and breathtaking Himalayan scenery. From romantic stays in premium resorts to private sightseeing in the cedar forests and snow-capped valleys, every moment of this tour is crafted to make your honeymoon as lovable and memorable as the mountains themselves.",
+  "destinations": ["Chandigarh", "Manali", "Solang Valley", "Naggar Castle", "Kullu Valley"],
+  "highlights": [
+    "Romantic stay in a premium honeymoon-special resort with mountain views",
+    "Private sightseeing in a comfortable Sedan for intimate travel",
+    "Candlelight dinner and special room decor included (optional)",
+    "Full-day excursion to Solang Valley for romantic snow activities",
+    "Visit to the historic Naggar Castle for a timeless heritage experience",
+    "Explore the cozy cafes and vibrant markets of Old Manali",
+    "Personalized route planning and dedicated mountain support"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Manali - The Romantic Drive",
+      "description": "Meet our driver at Chandigarh and begin your 305 km drive to Manali. Enjoy the scenic transition to the hills, with stops at Pandoh Dam and Hanogi Mata Temple. Arrive in Manali by evening, check in to your romantic resort, and enjoy a quiet dinner together."
+    },
+    {
+      "day": 2,
+      "title": "Manali Local Heritage & Nature",
+      "description": "Visit the ancient Hadimba Devi Temple, set amidst giant cedar forests. Explore the Vashisht Hot Springs, Manu Temple, and the Tibetan Monastery. Spend your afternoon at the Mall Road or in the quaint cafes of Old Manali."
+    },
+    {
+      "day": 3,
+      "title": "Solang Valley Adventure & Snow Fun",
+      "description": "Spend a thrilling day at Solang Valley. Enjoy paragliding, zorbing, and skiing (in season). Take the ropeway to the top for a spectacular 360-degree view of the Himalayas. Perfect for capturing romantic mountain photographs."
+    },
+    {
+      "day": 4,
+      "title": "Naggar Castle & Heritage Walk",
+      "description": "Visit the historic Naggar Castle, a masterpiece of wood and stone architecture. Explore the Roerich Art Gallery and enjoy panoramic views of the Kullu Valley. Later, visit a local shawl weaving factory in Kullu before returning to Manali."
+    },
+    {
+      "day": 5,
+      "title": "Manali to Chandigarh - Final Departure",
+      "description": "After a leisurely breakfast, bid farewell to the mountains. Begin your return journey to Chandigarh. Our driver will drop you at the airport or railway station for your onward journey."
+    }
+  ],
+  "inclusions": [
+    "Private Sedan for all travel and sightseeing",
+    "4 Nights premium stay in a honeymoon-category resort",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "Honeymoon specials (Cake/Decor/Dinner) as per preference",
+    "All toll taxes, parking, and driver allowance included",
+    "Pickup and Drop at Chandigarh"
+  ],
+  "exclusions": [
+    "Airfare or Train tickets",
+    "Lunch and extra snacks",
+    "Activity charges at Solang Valley",
+    "Rohtang Pass permit and local cab charges",
+    "Entry fees to monuments",
+    "Personal expenses"
+  ],
+  "faqs": [
+    {
+      "question": "Can we add a Rohtang Pass visit?",
+      "answer": "Yes, we can coordinate a Rohtang Pass visit for an additional cost, subject to permit availability and weather."
+    },
+    {
+      "question": "Are the hotels quiet and private?",
+      "answer": "Absolutely. We handpick resorts that offer the best privacy and views for honeymoon couples."
+    }
+  ]
+}

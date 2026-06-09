@@ -1,0 +1,18 @@
+{
+  "name": "Guru Kripa Travels",
+  "short_name": "Guru Kripa",
+  "description": "Premium Himachal tour packages, taxi service, live route planning, and direct Guru Kripa holiday enquiries.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f43f5e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

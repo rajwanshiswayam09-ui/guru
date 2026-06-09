@@ -1,0 +1,110 @@
+{
+  "name": "Pristine Kinnaur Spiti Grand Circuit",
+  "slug": "pristine-spiti",
+  "duration": "11 Nights / 12 Days",
+  "category": "Kinnaur And Spiti Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Key_Monastery%2C_Spiti_Valley%2C_Himachal_Pradesh.jpg/1280px-Key_Monastery%2C_Spiti_Valley%2C_Himachal_Pradesh.jpg",
+  "overview": "Embark on the ultimate Himalayan odyssey with our Pristine Kinnaur Spiti Grand Circuit. This 12-day epic journey is designed for the true explorer, covering the transition of landscapes from the lush apple orchards of Kinnaur to the stark, high-altitude cold desert of Spiti and the rugged beauty of Lahaul. Witness ancient monasteries, cross high-mountain passes, and experience the unique culture of the 'Middle Land' in one grand, unforgettable loop.",
+  "destinations": ["Chandigarh", "Shimla", "Sangla", "Chitkul", "Kalpa", "Nako", "Tabo", "Kaza", "Key Monastery", "Kibber", "Chandratal Lake", "Manali"],
+  "highlights": [
+    "Complete trans-Himalayan circuit covering Kinnaur, Spiti, and Lahaul.",
+    "Visit the 1000-year-old Tabo Monastery, the 'Ajanta of the Himalayas'.",
+    "Stay by the ethereal Chandratal Lake (Moon Lake) at 4,300 meters.",
+    "Explore the last inhabited village on the Indo-Tibet border, Chitkul.",
+    "Breathtaking views of the Kinnaur Kailash and Spiti Valley peaks.",
+    "Private SUV for safe travel on the dramatic Hindustan-Tibet road.",
+    "Professional driver with specialized experience in the full Spiti circuit."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla (130 Km, 3-4 Hrs)",
+      "description": "Upon arrival at Chandigarh, our driver will pick you up and take you to Shimla. Enjoy the scenic drive through the foothills. Check into your hotel in Shimla and spend the evening exploring the Mall Road and the Ridge."
+    },
+    {
+      "day": 2,
+      "title": "Shimla to Sangla (220 Km, 7-8 Hrs)",
+      "description": "Drive deep into the Himalayas toward Sangla. Travel along the Satluj River on the dramatic Hindustan-Tibet road. Arrive in the beautiful Baspa Valley and stay overnight in Sangla, surrounded by giant peaks."
+    },
+    {
+      "day": 3,
+      "title": "Sangla and Chitkul Excursion",
+      "description": "Visit Chitkul, the last village on the Indo-Tibet border. Enjoy a walk by the crystal-clear Baspa River and explore the local heritage of Sangla, including the Kamru Fort."
+    },
+    {
+      "day": 4,
+      "title": "Sangla to Kalpa (40 Km, 2-3 Hrs)",
+      "description": "Drive to Kalpa, perched high above the Satluj River. Witness the stunning Kinnaur Kailash peaks and visit the local monasteries. Enjoy the sunset over the sacred ranges."
+    },
+    {
+      "day": 5,
+      "title": "Kalpa to Nako and Tabo (150 Km, 5-6 Hrs)",
+      "description": "Witness the dramatic change in landscape as you enter the rain-shadow region of Spiti. Visit the high-altitude Nako Lake and continue to Tabo, home to the ancient Tabo Monastery."
+    },
+    {
+      "day": 6,
+      "title": "Tabo to Kaza via Dhankar",
+      "description": "Visit the Dhankar Monastery, dramatically perched on a cliff overlooking the Spiti River. Proceed to Kaza, the administrative hub of Spiti Valley, and check into your hotel."
+    },
+    {
+      "day": 7,
+      "title": "Kaza Local: Key & Highest Villages",
+      "description": "Visit the iconic Key Monastery and the high villages of Kibber, Hikkim (highest post office), and Langza (fossil village with the giant Buddha)."
+    },
+    {
+      "day": 8,
+      "title": "Kaza to Pin Valley Excursion",
+      "description": "Explore the Pin Valley National Park, known for its unique flora and fauna, including the elusive snow leopard. Visit the Kungri Monastery and enjoy the stark beauty of the valley."
+    },
+    {
+      "day": 9,
+      "title": "Kaza to Chandratal Lake",
+      "description": "Drive toward the ethereal Chandratal Lake. Cross the Kunzum Pass and reach the camping site near the Moon Lake. Spend the evening by the crystal-clear waters."
+    },
+    {
+      "day": 10,
+      "title": "Chandratal to Manali via Atal Tunnel",
+      "description": "Begin the return journey toward Manali. Retrace the path through the Lahaul Valley and cross the Atal Tunnel. Arrive in Manali by evening and relax."
+    },
+    {
+      "day": 11,
+      "title": "Manali Local & Relaxation",
+      "description": "Enjoy a relaxed day in Manali. Visit the Hadimba Temple and explore the local markets. Reflect on your grand circuit journey."
+    },
+    {
+      "day": 12,
+      "title": "Manali to Chandigarh Drop",
+      "description": "After breakfast, drive back to Chandigarh. Our driver will drop you at the airport or railway station for your onward journey."
+    }
+  ],
+  "inclusions": [
+    "Private SUV (Innova/Crysta) for the entire 12-day circuit.",
+    "11 Nights stay in handpicked verified hotels and camps.",
+    "Daily Breakfast and Dinner (MAP Plan).",
+    "Professional driver with specialized trans-Himalayan expertise.",
+    "All toll taxes, parking, and state permits included.",
+    "Oxygen cylinder support for high-altitude safety."
+  ],
+  "exclusions": [
+    "Airfare or Train tickets.",
+    "Lunch and mid-day snacks.",
+    "Entry fees to monasteries and museums.",
+    "Personal expenses.",
+    "Anything not mentioned in inclusions.",
+    "Travel insurance."
+  ],
+  "faqs": [
+    {
+      "question": "Is this circuit physically demanding?",
+      "answer": "The circuit involves long drives at high altitudes. We recommend it for healthy travelers and ensure proper acclimatization days."
+    },
+    {
+      "question": "Will we see snow leopard?",
+      "answer": "While Pin Valley is their habitat, sightings are rare and usually require specialized winter treks. However, the landscape is stunning year-round."
+    }
+  ],
+  "seo": {
+    "title": "Pristine Kinnaur Spiti Grand Circuit | Guru Kripa Travels",
+    "description": "Embark on a 11 nights 12 days grand circuit of Kinnaur, Spiti, and Lahaul. Explore ancient monasteries, high lakes, and the highest villages."
+  }
+}

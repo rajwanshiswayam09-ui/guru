@@ -1,0 +1,76 @@
+{
+  "name": "Vibrant Shimla Manali Honeymoon Tour From Chandigarh",
+  "slug": "vibrant-shimla-manali-honeymoon",
+  "duration": "5 Nights / 6 Days",
+  "category": "Shimla Manali Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Ridge_Shimla_5.jpg/1920px-The_Ridge_Shimla_5.jpg",
+  "overview": "Celebrate your vibrant new chapter with our 'Vibrant Shimla Manali Honeymoon Tour.' This 6-day romantic odyssey from Chandigarh is crafted for couples who want to experience the energy and elegance of Himachal. From the heritage charm and evening strolls on Shimla's Ridge to the adventure-filled days in Manali's snow-capped valleys, every detail is designed for intimacy and joy. Enjoy private transfers, romantic stays, and handpicked experiences that make your honeymoon as vibrant as your future together.",
+  "destinations": ["Chandigarh", "Shimla", "Kufri", "Manali", "Solang Valley", "Kullu"],
+  "highlights": [
+    "Perfectly curated honeymoon route with romantic mountain-view stays",
+    "Private sightseeing in a premium Sedan for intimate travel comfort",
+    "Stroll hand-in-hand through the colonial heritage of Shimla's Mall Road",
+    "Experience the thrill of snow activities and paragliding in Solang Valley",
+    "Romantic candlelight dinner and honeymoon special inclusions (optional)",
+    "Scenic photo stops at Pandoh Dam and the banks of the Beas River",
+    "Explore the cozy cafes and vibrant markets of Old Manali"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla - The Romantic Ascent",
+      "description": "Arrive in Chandigarh and begin your scenic drive to Shimla. Enjoy the winding roads and the cool mountain air. Arrive by evening, check in to your romantic hotel, and enjoy a quiet walk on the Ridge, visiting the iconic Christ Church."
+    },
+    {
+      "day": 2,
+      "title": "Kufri Highlands & Shimla Local",
+      "description": "After a lazy breakfast, head to Kufri for panoramic views of the Himalayas. Visit the Himalayan Nature Park and enjoy a horse ride. Later, return to Shimla to explore the local markets and enjoy a romantic sunset from the Jakhu Hill."
+    },
+    {
+      "day": 3,
+      "title": "Shimla to Manali - Scenic Riverside Drive",
+      "description": "Depart for Manali (250 km, 8-9 hours). Enjoy the scenic beauty of the Beas River corridor. Stop at Pandoh Dam for photographs and visit a local shawl weaving factory in Kullu. Reach Manali by evening and relax at your premium resort."
+    },
+    {
+      "day": 4,
+      "title": "Manali Local Heritage & Cafes",
+      "description": "Explore the cultural soul of Manali. Visit the ancient Hadimba Temple and Vashisht Hot Springs. Spend your afternoon in the cozy cafes of Old Manali or shopping for local handicrafts at the Mall Road."
+    },
+    {
+      "day": 5,
+      "title": "Solang Valley Snow Adventure",
+      "description": "Spend a thrilling day at Solang Valley. Enjoy paragliding, zorbing, and skiing (in season). Take the ropeway for a 360-degree view of the mountains. Perfect for capturing vibrant honeymoon photographs."
+    },
+    {
+      "day": 6,
+      "title": "Manali to Chandigarh - Final Departure",
+      "description": "After breakfast, bid farewell to the mountains. Begin your return journey to Chandigarh. Our driver will drop you at the airport or railway station for your onward journey."
+    }
+  ],
+  "inclusions": [
+    "Private premium Sedan for the entire 6-day honeymoon tour",
+    "5 Nights stay in handpicked romantic resorts",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "Honeymoon specials (Cake/Decor/Candlelight Dinner) as per request",
+    "All toll taxes, parking, fuel, and driver allowance included",
+    "Pickup and Drop at Chandigarh"
+  ],
+  "exclusions": [
+    "Airfare or Train tickets",
+    "Lunch and extra beverages",
+    "Adventure activity charges at Solang Valley",
+    "Rohtang Pass permit and local cab charges",
+    "Entry fees to monuments",
+    "Personal expenses"
+  ],
+  "faqs": [
+    {
+      "question": "Can we customize the honeymoon inclusions?",
+      "answer": "Yes, we can add special cakes, room decorations, or private dinners as per your preference."
+    },
+    {
+      "question": "What is the best month for a honeymoon in Shimla-Manali?",
+      "answer": "March to June is pleasant for sightseeing, while December to February is perfect for couples who want to experience snow."
+    }
+  ]
+}

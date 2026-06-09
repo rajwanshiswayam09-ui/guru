@@ -1,0 +1,71 @@
+{
+  "name": "Scenic Khajjiar Tour Package",
+  "slug": "khajjiar-tour",
+  "duration": "4 Nights / 5 Days",
+  "category": "Dharamshala Dalhousie Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/A_view_of_Khajjiar_%2CChamba%2CHimachal_Pradesh.jpg/1280px-A_view_of_Khajjiar_%2CChamba%2CHimachal_Pradesh.jpg",
+  "overview": "Escape to the 'Mini Switzerland of India' with our Scenic Khajjiar Tour Package. This 5-day retreat is dedicated to the emerald meadows and cedar forests of the Chamba Valley. Based in the colonial hill station of Dalhousie, this package offers an in-depth exploration of the Khajjiar highlands, the high-altitude viewpoints of Dainkund, and the serene Satdhara Falls. Perfect for families and couples seeking a peaceful, nature-centric mountain getaway.",
+  "destinations": ["Chandigarh", "Dalhousie", "Khajjiar", "Chamba", "Dainkund"],
+  "highlights": [
+    "Dedicated exploration of Khajjiar - the 'Mini Switzerland of India'",
+    "Panoramic views of the Pir Panjal range from Dainkund Peak",
+    "Scenic drive through the Kalatop Wildlife Sanctuary",
+    "Visit to the ancient Khajji Nag Temple and Chamba Valley",
+    "Relaxed stay in a premium colonial-style resort in Dalhousie",
+    "Explore the historic churches and local markets of Dalhousie",
+    "Private cab for a comfortable and personalized mountain experience"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Dalhousie - The Mountain Ascent",
+      "description": "Meet our representative at Chandigarh and begin your 300 km drive to Dalhousie. Enjoy the scenic transition from the plains to the cedar-clad hills. Arrive in the evening and check in to your hotel, enjoying a peaceful mountain dinner."
+    },
+    {
+      "day": 2,
+      "title": "Dalhousie Local & Viewpoints",
+      "description": "Explore the colonial charm of Dalhousie. Visit St. John's and St. Francis churches, Panchpula, and the Satdhara Falls. Spend your afternoon at the local Subhash Chowk and Gandhi Chowk for souvenir shopping."
+    },
+    {
+      "day": 3,
+      "title": "Khajjiar - The Mini Switzerland Day",
+      "description": "Head to Khajjiar, known for its vast green meadows and pine forests. Visit the Khajji Nag Temple and enjoy activities like horse riding or zorbing. Explore the nearby Kalatop Wildlife Sanctuary for a deep forest experience."
+    },
+    {
+      "day": 4,
+      "title": "Dainkund Peak & Chamba Excursion",
+      "description": "Visit Dainkund Peak, the highest point in Dalhousie, for 360-degree mountain views. Later, take an optional excursion to the historic town of Chamba, known for its ancient temples and the Ravi River banks."
+    },
+    {
+      "day": 5,
+      "title": "Dalhousie to Chandigarh - Final Departure",
+      "description": "After a leisurely breakfast, begin your return journey to Chandigarh. Our driver will drop you at the airport or railway station for your onward journey, marking the end of your scenic tour."
+    }
+  ],
+  "inclusions": [
+    "Private cab (Sedan/SUV) for the entire 5-day tour",
+    "4 Nights premium accommodation in Dalhousie",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "All toll taxes, parking, and driver allowance included",
+    "Pickup and Drop at Chandigarh",
+    "24/7 dedicated mountain support"
+  ],
+  "exclusions": [
+    "Airfare or Train tickets",
+    "Lunch and extra beverages",
+    "Activity charges at Khajjiar",
+    "Entry fees to monuments and museums",
+    "Personal expenses",
+    "Travel insurance"
+  ],
+  "faqs": [
+    {
+      "question": "Is Khajjiar accessible throughout the year?",
+      "answer": "Yes, but during heavy snowfall (Jan-Feb), the road might be temporarily blocked. We plan alternatives in such cases."
+    },
+    {
+      "question": "Are there any adventure activities in Khajjiar?",
+      "answer": "Yes, you can enjoy horse riding, zorbing, and short forest treks around the meadows."
+    }
+  ]
+}

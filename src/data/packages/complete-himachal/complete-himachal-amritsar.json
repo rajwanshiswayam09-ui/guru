@@ -1,0 +1,101 @@
+{
+  "name": "Complete Himachal Tour With Amritsar",
+  "slug": "complete-himachal-amritsar",
+  "duration": "8 Nights / 9 Days",
+  "category": "Complete Himachal Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Golden_Temple%2C_Amritsar_03.jpg/1280px-Golden_Temple%2C_Amritsar_03.jpg",
+  "overview": "Embark on an epic 10-day journey through the most iconic destinations of North India. Our Complete Himachal Tour with Amritsar covers the heritage of Shimla, the adventure of Manali, the spiritual peace of Dharamshala, and the colonial charm of Dalhousie, concluding with the divine experience of Amritsar. This all-encompassing circuit is designed for those who want to witness the diverse culture and breathtaking landscapes of the Himalayas and Punjab in one seamless travel experience.",
+  "destinations": ["Chandigarh", "Shimla", "Kufri", "Manali", "Solang Valley", "Dharamshala", "Dalhousie", "Khajjiar", "Amritsar"],
+  "highlights": [
+    "Full circuit of Himachal's top hill stations in a private cab",
+    "Spiritual experience at the Golden Temple and Wagah Border",
+    "Visit the 'Mini Switzerland of India' at Khajjiar",
+    "Explore the seat of the Dalai Lama at McLeod Ganj",
+    "Scenic drives through the Beas and Dhauladhar valleys",
+    "Heritage walks in Shimla and colonial charm in Dalhousie",
+    "Multiple snow-point opportunities at Kufri and Solang Valley"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla (130 Km, 3-4 Hrs)",
+      "description": "On reaching Chandigarh, our driver will pick you up from the Chandigarh airport /Railway station and take you to Shimla via road. The drive to Shimla will be mesmerizing as the route is full of scenic beauty. On reaching Shimla, you can check into your hotel and freshen up. You are then free to visit the local Shimla market. Have your dinner and retire for the day."
+    },
+    {
+      "day": 2,
+      "title": "Shimla & Kufri Local Sightseeing",
+      "description": "Explore the Kufri highlands, Green Valley, and the Himalayan Nature Park. Return to Shimla for a heritage walk on the Mall Road, visiting the Ridge, Christ Church, and Jakhu Temple."
+    },
+    {
+      "day": 3,
+      "title": "Shimla to Manali (260 km / 7-8hrs)",
+      "description": "A full-day scenic drive to Manali. Stop at Pandoh Dam and visit the Kullu Shawl factories. Enjoy the river-side views as you enter the Manali valley by evening."
+    },
+    {
+      "day": 4,
+      "title": "Manali to Solang Valley and Rohtang Pass",
+      "description": "Visit Solang Valley and Rohtang Pass (subject to permit). Rohtang Pass offers unmatched views of snow-clad peaks. At Solang Valley, try skiing, paragliding, or snow scooter rides."
+    },
+    {
+      "day": 5,
+      "title": "Manali Local Sightseeing",
+      "description": "Visit the Hadimba Devi Temple, Vashisht Hot Springs, and the Tibetan Monastery. Spend your afternoon at the Mall Road or in the quaint cafes of Old Manali."
+    },
+    {
+      "day": 6,
+      "title": "Manali to Dharamshala (240 km / 7-8 hrs)",
+      "description": "Travel from Manali to Dharamshala, passing through the beautiful Palampur tea gardens and Mandi. Arrive in the evening and relax at your hotel in the Dhauladhar foothills."
+    },
+    {
+      "day": 7,
+      "title": "Dharamshala Local Sightseeing",
+      "description": "Visit the Dalai Lama Temple, Bhagsu Waterfall, and the St. John in the Wilderness Church. Explore the Tibetan markets for authentic souvenirs."
+    },
+    {
+      "day": 8,
+      "title": "Dharamshala to Dalhousie (120 km / 4-5 hours)",
+      "description": "Drive to Dalhousie, a beautiful hill station with a colonial soul. Check in to your hotel and enjoy a walk through the cedar-lined paths and local churches."
+    },
+    {
+      "day": 9,
+      "title": "Dalhousie to Khajjiar to Amritsar",
+      "description": "Visit Khajjiar, the 'Mini Switzerland of India,' known for its vast green meadows. Later, descend to the plains of Punjab and arrive in Amritsar by evening. Visit the Golden Temple at night."
+    },
+    {
+      "day": 10,
+      "title": "Amritsar Local & Departure",
+      "description": "Visit Jallianwala Bagh and the Partition Museum. Experience the patriotic fervour at the Wagah Border ceremony. Finally, drop at Amritsar airport or railway station."
+    }
+  ],
+  "inclusions": [
+    "Pickup & Drop.",
+    "9 Nights stay in premium hotels.",
+    "Daily Breakfast and Dinner.",
+    "All sightseeing's by individual car.",
+    "All toll taxes, parking fees and driver's allowance.",
+    "Inclusive of all taxes."
+  ],
+  "exclusions": [
+    "Charges for early Check-In & late Check-Out at Hotel.",
+    "Rohtang Pass Charges",
+    "Lunch & Snacks.",
+    "Air fare/ train fare.",
+    "Monuments Entrance fees during sightseeing.",
+    "Camera Charges/Rides etc.",
+    "5% Goods And Services Tax(GST)"
+  ],
+  "faqs": [
+    {
+      "question": "Does this tour cover Wagah Border?",
+      "answer": "Yes, it includes a visit to the Wagah Border for the beating retreat ceremony."
+    },
+    {
+      "question": "Is the Golden Temple visit possible at night?",
+      "answer": "Yes, the Golden Temple is open 24/7 and looks particularly beautiful when illuminated at night."
+    }
+  ],
+  "seo": {
+    "title": "Complete Himachal Tour With Amritsar | Guru Kripa Travels",
+    "description": "Explore the best of Himachal and Amritsar in a 9 nights 10 days grand circuit. Covers Shimla, Manali, Dharamshala, Dalhousie, and the Golden Temple."
+  }
+}

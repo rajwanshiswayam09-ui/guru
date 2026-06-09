@@ -1,0 +1,76 @@
+{
+  "name": "Serene Kinnaur Valley Tour",
+  "slug": "serene-kinnaur",
+  "duration": "5 Nights / 6 Days",
+  "category": "Kinnaur Valley Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kinnaur_Kailash_from_Kalpa.jpg/1280px-Kinnaur_Kailash_from_Kalpa.jpg",
+  "overview": "Find your inner peace amidst the towering peaks and apple orchards of the Baspa Valley with our 'Serene Kinnaur Valley Tour.' This 6-day escape is designed for travelers who want to experience the tranquil side of the Himalayas. Stay in handpicked riverside camps and boutique lodges, explore the ancient wooden temples of Sangla and Kalpa, and witness the sunrise over the sacred Kinnaur Kailash range. A perfect blend of comfort, culture, and high-altitude serenity.",
+  "destinations": ["Chandigarh", "Shimla", "Narkanda", "Sangla", "Kalpa", "Chitkul"],
+  "highlights": [
+    "A peaceful mountain retreat through the apple orchards of Kinnaur",
+    "Stay in a riverside boutique camp in the lush Sangla Valley",
+    "Witness the breathtaking sunrise over the Kinnaur Kailash peaks in Kalpa",
+    "Explore the 'Last Village of India' at Chitkul and the Baspa River",
+    "Visit the historic Bhimakali Temple in Sarahan and Kamru Fort in Sangla",
+    "Scenic drives through the dramatic Hindustan-Tibet road",
+    "Private SUV with a specialized mountain driver for safe travel"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Narkanda - The Cedar Highlands",
+      "description": "Meet our driver at Chandigarh and drive to Narkanda (175 km, 6-7 hours). Enjoy the scenic climb through the pine forests of Shimla. Stay overnight in Narkanda, surrounded by apple orchards and cedar groves."
+    },
+    {
+      "day": 2,
+      "title": "Narkanda to Sangla - baspa Valley Entry",
+      "description": "Drive through the dramatic Satluj River canyon on the Hindustan-Tibet road. Enter the green Baspa Valley and reach Sangla by evening. Check in to your riverside camp and enjoy a peaceful mountain dinner."
+    },
+    {
+      "day": 3,
+      "title": "Sangla & Chitkul Exploration",
+      "description": "Visit Chitkul, the last village on the ancient trade route. Spend the day by the crystal-clear Baspa River and explore the local village life. Later, visit the heritage Kamru Fort in Sangla."
+    },
+    {
+      "day": 4,
+      "title": "Sangla to Kalpa - The Sacred Peaks",
+      "description": "Travel to Kalpa, perched high above the Satluj River. Spend the afternoon witnessing the stunning Kinnaur Kailash peaks. Visit the local Buddhist monastery and explore the apple orchards of Kalpa."
+    },
+    {
+      "day": 5,
+      "title": "Kalpa to Sarahan - The Heritage Halt",
+      "description": "Begin your return journey with a stop at Sarahan. Visit the legendary Bhimakali Temple, a masterpiece of hill architecture, and enjoy the serene environment of this former royal capital."
+    },
+    {
+      "day": 6,
+      "title": "Sarahan to Chandigarh - Final Departure",
+      "description": "Descend back to Chandigarh (270 km, 8-9 hours). Reflect on your serene Kinnaur journey as our driver drops you at the airport or railway station."
+    }
+  ],
+  "inclusions": [
+    "Private high-clearance SUV (Innova/Crysta) for the entire 6-day tour",
+    "5 Nights stay in verified premium boutique hotels and camps",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "All toll taxes, parking, and state permits included",
+    "Professional driver with expertise in Kinnaur routes",
+    "Inner-line permit coordination for foreign nationals"
+  ],
+  "exclusions": [
+    "Airfare or Train tickets",
+    "Lunch and mid-day snacks",
+    "Entry fees to temples and museums",
+    "Personal expenses",
+    "Anything not mentioned in inclusions",
+    "Travel insurance"
+  ],
+  "faqs": [
+    {
+      "question": "Is Kinnaur suitable for a quiet family trip?",
+      "answer": "Yes, it is much quieter than Shimla or Manali. It's perfect for families who enjoy nature and peaceful environments."
+    },
+    {
+      "question": "What is the best time for apple blossom in Kinnaur?",
+      "answer": "April and May are the best months to see the apple blossoms in full glory."
+    }
+  ]
+}

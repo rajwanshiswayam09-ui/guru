@@ -1,0 +1,71 @@
+{
+  "name": "Famed Manali Tour From Chandigarh",
+  "slug": "famed-manali",
+  "duration": "4 Nights / 5 Days",
+  "category": "Manali Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Solang_Valley_%2CManali%2C_Himachal_Pardes%2C_India.JPG/1280px-Solang_Valley_%2CManali%2C_Himachal_Pardes%2C_India.JPG",
+  "overview": "Experience the fame and beauty of Manali with our most popular 5-day tour starting from Chandigarh. Designed for those seeking a quick but comprehensive mountain getaway, this package covers the iconic landmarks of the Kullu Valley. From the adventure trails of Solang to the spiritual serenity of the Beas riverbanks, the Famed Manali tour offers the perfect introduction to the heart of Himachal.",
+  "destinations": ["Chandigarh", "Manali", "Solang Valley", "Kullu", "Beas River"],
+  "highlights": [
+    "Most popular short-duration Manali circuit from Chandigarh",
+    "Private cab for seamless travel and flexible sightseeing",
+    "Full-day excursion to Solang Valley for snow fun and paragliding",
+    "Visit to the world-renowned Hadimba Temple and Vashisht Hot Springs",
+    "Scenic stopovers at Pandoh Dam and Hanogi Mata Temple",
+    "Shopping for local handicrafts at Kullu shawl factories",
+    "Handpicked hotels verified for comfort and mountain views"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Manali - Gateway to the North",
+      "description": "Start your 305 km drive from Chandigarh. Follow the winding roads through Mandi and the Kullu Valley. Enjoy the riverside views and stop at Pandoh Dam. Arrive in Manali by evening and check in to your hotel."
+    },
+    {
+      "day": 2,
+      "title": "Manali Local Cultural Exploration",
+      "description": "Visit the Hadimba Devi Temple, Tibetan Monastery, and the Vashisht Hot Water Springs. Spend the rest of your day at the Mall Road, exploring local markets and cafes."
+    },
+    {
+      "day": 3,
+      "title": "Solang Valley Adventure Day",
+      "description": "Head to Solang Valley for a full day of excitement. Enjoy paragliding, zorbing, and skiing (in season). Optional trip to the Atal Tunnel or Rohtang Pass can be coordinated as per availability."
+    },
+    {
+      "day": 4,
+      "title": "Kullu Valley & Beas River Sightseeing",
+      "description": "Drive through the beautiful Kullu Valley. Visit the shawl factories and the Vaishno Devi Temple. Enjoy optional river rafting or a peaceful walk along the Beas River."
+    },
+    {
+      "day": 5,
+      "title": "Manali to Chandigarh - Final Drop",
+      "description": "Begin your return journey to Chandigarh after breakfast. Our driver will drop you at the airport or railway station for your departure."
+    }
+  ],
+  "inclusions": [
+    "Private cab (Sedan/SUV) for the entire tour",
+    "4 Nights stay in handpicked verified hotels",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "All toll taxes, parking, and driver allowance included",
+    "Pickup and Drop at Chandigarh",
+    "24/7 route support and assistance"
+  ],
+  "exclusions": [
+    "Airfare or Train tickets",
+    "Lunch and extra snacks",
+    "Adventure activity fees at Solang Valley",
+    "Rohtang Pass permit and local cab charges",
+    "Entry fees to monuments",
+    "Personal expenses"
+  ],
+  "faqs": [
+    {
+      "question": "How far is Manali from Chandigarh?",
+      "answer": "It is approximately 305 km and takes about 9-10 hours depending on traffic and road conditions."
+    },
+    {
+      "question": "Can we visit Rohtang Pass on this tour?",
+      "answer": "Yes, Rohtang Pass can be added to Day 3, subject to permit availability and local taxi rules."
+    }
+  ]
+}

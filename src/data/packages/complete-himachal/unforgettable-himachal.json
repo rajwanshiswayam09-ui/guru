@@ -1,0 +1,95 @@
+{
+  "name": "Unforgettable Himachal Tour From Delhi",
+  "slug": "unforgettable-himachal",
+  "duration": "8 Nights / 9 Days",
+  "category": "Complete Himachal Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Ridge_Shimla_5.jpg/1280px-The_Ridge_Shimla_5.jpg",
+  "overview": "Embark on an unforgettable journey through the heart of the Himalayas with our 9-day grand loop from Delhi. This tour is meticulously crafted to cover the most iconic hill stations of Himachal Pradesh – Shimla, Manali, Dharamshala, and Dalhousie. From the colonial heritage and ridge walks of Shimla to the alpine thrills of Solang Valley and the spiritual serenity of McLeod Ganj, every day promises a new and enchanting experience. Travel in a private cab to enjoy the freedom of the open road and the breathtaking beauty of the mountain corridors.",
+  "destinations": ["Delhi", "Shimla", "Kufri", "Manali", "Solang Valley", "Dharamshala", "Dalhousie", "Khajjiar"],
+  "highlights": [
+    "Comprehensive 9-day circuit covering Himachal's 'Big Four' hill stations.",
+    "Private cab from Delhi for seamless travel and flexible sightseeing.",
+    "Visit the 'Mini Switzerland of India' at Khajjiar's vast meadows.",
+    "Explore the seat of the Dalai Lama and Tibetan culture in McLeod Ganj.",
+    "Scenic drives through the Sutlej, Beas, and Ravi river valleys.",
+    "Heritage walks in Shimla and colonial charm in Dalhousie.",
+    "Handpicked premium stays in verified mountain resorts."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Delhi to Shimla (370 Km, 7-8 Hrs)",
+      "description": "Our driver will pick you up from Delhi and take you to Shimla. The long but scenic drive through the plains and into the mountains is the perfect start to your holiday. Arrive in Shimla by evening, check into your hotel, and enjoy a stroll on the Mall Road."
+    },
+    {
+      "day": 2,
+      "title": "Shimla & Kufri Local Sightseeing",
+      "description": "After breakfast, head to the Kufri highlands for snow activities and panoramic views. Visit the Himalayan Nature Park. Return to Shimla to explore the Ridge, Christ Church, and visit the Jakhu Temple for a stunning sunset."
+    },
+    {
+      "day": 3,
+      "title": "Shimla to Manali (260 km / 7-8hrs)",
+      "description": "Travel from Shimla to Manali through the beautiful Kullu Valley. Stop at Pandoh Dam and visit the local shawl factories. Enjoy the riverside views as you reach the vibrant town of Manali."
+    },
+    {
+      "day": 4,
+      "title": "Manali to Solang Valley and Rohtang Pass",
+      "description": "Visit Solang Valley for adventure sports and stunning glacier views. If permits allow, proceed to the Rohtang Pass for an ultimate snow experience. Return to Manali for the night."
+    },
+    {
+      "day": 5,
+      "title": "Manali Local Sightseeing",
+      "description": "Explore the cultural soul of Manali. Visit the Hadimba Devi Temple, Vashisht Hot Springs, and the Tibetan Monastery. Spend your evening at the Mall Road."
+    },
+    {
+      "day": 6,
+      "title": "Manali to Dharamshala (240 km / 7-8 hrs)",
+      "description": "Drive through the scenic Palampur tea gardens toward Dharamshala. Arrive in the Dhauladhar foothills and enjoy the serene atmosphere."
+    },
+    {
+      "day": 7,
+      "title": "Dharamshala & McLeod Ganj Local",
+      "description": "Visit the Dalai Lama Temple, Bhagsu Waterfall, and the peaceful Dal Lake. Explore the local Tibetan markets for unique handicrafts."
+    },
+    {
+      "day": 8,
+      "title": "Dharamshala to Dalhousie & Khajjiar",
+      "description": "Drive to Dalhousie and proceed to Khajjiar, the 'Mini Switzerland of India.' Enjoy the vast green meadows surrounded by cedar forests. Return to Dalhousie for a peaceful evening."
+    },
+    {
+      "day": 9,
+      "title": "Dalhousie to Delhi Drop (560 Km, 12-13 Hrs)",
+      "description": "After an early breakfast, begin the return journey to Delhi. Our driver will drop you at the airport or railway station for your onward journey."
+    }
+  ],
+  "inclusions": [
+    "Private cab (Sedan/SUV) for the entire 9-day tour from Delhi.",
+    "8 Nights stay in premium verified hotels.",
+    "Daily Breakfast and Dinner (MAP Plan).",
+    "All toll taxes, parking, fuel, and state permits included.",
+    "Professional driver with mountain route expertise.",
+    "24/7 route support and trip coordination."
+  ],
+  "exclusions": [
+    "Airfare or Train tickets.",
+    "Lunch and extra beverages.",
+    "Entry fees to monuments and parks.",
+    "Adventure activity charges.",
+    "Rohtang Pass permit and local cab charges.",
+    "Personal expenses."
+  ],
+  "faqs": [
+    {
+      "question": "Is the drive from Dalhousie to Delhi very long?",
+      "answer": "Yes, it is about 12-13 hours. we plan regular stops to ensure comfort throughout the journey."
+    },
+    {
+      "question": "Can we customize the stay in McLeod Ganj?",
+      "answer": "Absolutely. All our packages are customizable to suit your time and preferences."
+    }
+  ],
+  "seo": {
+    "title": "Unforgettable Himachal Tour From Delhi | Guru Kripa Travels",
+    "description": "Book our 8 nights 9 days grand Himachal tour from Delhi. Covers Shimla, Manali, Dharamshala, and Dalhousie with a private taxi and premium stays."
+  }
+}

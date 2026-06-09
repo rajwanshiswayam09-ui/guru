@@ -1,0 +1,76 @@
+{
+  "name": "Scenic Shimla Manali Tour From Chandigarh",
+  "slug": "scenic-shimla-manali",
+  "duration": "5 Nights / 6 Days",
+  "category": "Shimla Manali Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Ridge_Shimla_5.jpg/1280px-The_Ridge_Shimla_5.jpg",
+  "overview": "Embark on a visually stunning journey through the most scenic corridors of Himachal with our 'Scenic Shimla Manali Tour.' Starting from Chandigarh, this 6-day package is designed to showcase the diverse landscapes of the Shivalik and Dhauladhar ranges. From the colonial ridges of Shimla and the snow-clad peaks of Kufri to the alpine meadows and river-side beauty of Manali, every kilometer of this drive offers a postcard-perfect view. Travel in a private cab with a professional driver to ensure you don't miss a single viewpoint.",
+  "destinations": ["Chandigarh", "Shimla", "Kufri", "Kullu Valley", "Manali", "Solang Valley"],
+  "highlights": [
+    "Most scenic road trip route from Chandigarh to the high Himalayas",
+    "Stay in handpicked hotels with guaranteed mountain or valley views",
+    "Explore the 'Mini Switzerland' at Kufri's snow-capped highlands",
+    "Scenic transfer along the Beas River with stops at Pandoh Dam",
+    "Visit the historic Hadimba Temple and the vibrant Mall Road of Manali",
+    "Full-day excursion to Solang Valley for adventure and glacier views",
+    "Private cab for flexible sightseeing and personalized photo stops"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Shimla - The Scenic Climb",
+      "description": "Meet our representative at Chandigarh and begin your 115 km ascent to Shimla. Enjoy the scenic drive through Parwanoo, Solan, and Barog. Stop at the Timber Trail for panoramic valley views. Arrive in Shimla by evening, check in to your hotel, and enjoy a walk on the heritage Mall Road."
+    },
+    {
+      "day": 2,
+      "title": "Kufri Snow Point & Shimla Local",
+      "description": "After breakfast, head to Kufri, the highest point around Shimla. Visit the Himalayan Nature Park and enjoy a pony ride to Mahasu Peak for stunning views of the snow-clad ranges. In the afternoon, return to Shimla to visit the Jakhu Temple and explore the Ridge and Christ Church."
+    },
+    {
+      "day": 3,
+      "title": "Shimla to Manali - River-Side Journey",
+      "description": "Depart for Manali (250 km, 8-9 hours). This is one of the most scenic drives in Himachal. Stop at the majestic Pandoh Dam and the Hanogi Mata Temple. Pass through the Kullu Valley and enjoy the views of the Beas River flowing alongside your cab. Reach Manali by evening and relax at your hotel."
+    },
+    {
+      "day": 4,
+      "title": "Manali Local Cultural Exploration",
+      "description": "Explore the cultural soul of Manali. Visit the Hadimba Devi Temple, Vashisht Hot Water Springs, and the Tibetan Monastery. Spend your afternoon exploring the quirks of Old Manali or shopping for local handicrafts at the Tibetan Market."
+    },
+    {
+      "day": 5,
+      "title": "Solang Valley Adventure Day",
+      "description": "Head to Solang Valley for a full day of excitement. Enjoy paragliding, zorbing, and skiing (in season). Take the ropeway to the top for a spectacular 360-degree view of the Himalayas. Optional trip to the Atal Tunnel can be coordinated for an ultimate snow experience."
+    },
+    {
+      "day": 6,
+      "title": "Manali to Chandigarh - Final Departure",
+      "description": "After breakfast, begin your return journey to Chandigarh. Enjoy final views of the Kullu Valley and Mandi. Our driver will drop you at the Chandigarh airport or railway station for your onward journey."
+    }
+  ],
+  "inclusions": [
+    "Private cab (Sedan/SUV) for the entire 6-day tour",
+    "5 Nights premium accommodation (2N Shimla, 3N Manali)",
+    "Daily Breakfast and Dinner (MAP Plan)",
+    "All toll taxes, parking, fuel, and driver allowance included",
+    "Personalized route planning and 24/7 mountain support",
+    "Pickup and Drop at Chandigarh"
+  ],
+  "exclusions": [
+    "Airfare or Train tickets",
+    "Lunch and mid-day snacks",
+    "Adventure activity charges at Solang Valley",
+    "Rohtang Pass permit and local cab charges",
+    "Entry fees to monuments",
+    "Personal expenses"
+  ],
+  "faqs": [
+    {
+      "question": "Is the drive from Shimla to Manali tiring?",
+      "answer": "It is an 8-9 hour drive, but we plan it with scenic stops at Pandoh Dam and Kullu to ensure comfort and enjoyment."
+    },
+    {
+      "question": "Are we guaranteed snow on this tour?",
+      "answer": "Snow is likely at Kufri and Solang Valley from late December to early March. During other months, you can find snow at higher reaches like Rohtang Pass."
+    }
+  ]
+}

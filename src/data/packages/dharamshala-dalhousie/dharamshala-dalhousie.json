@@ -1,0 +1,85 @@
+{
+  "name": "Dharamshala Dalhousie Tour Package",
+  "slug": "dharamshala-dalhousie",
+  "duration": "6 Nights / 7 Days",
+  "category": "Dharamshala Dalhousie Tour Packages",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dhauladhar_alpenglow_above_Dharamshala%2C_India.jpg/1280px-Dhauladhar_alpenglow_above_Dharamshala%2C_India.jpg",
+  "overview": "If you want to spend some quality time with your loved ones while enjoying the beauty of nature, then a Dharamshala and Dalhousie tour is the perfect choice. These destinations are known for their serene ambiance and breathtaking landscapes. To make the most of your trip, consider booking a taxi tour. This allows you to explore the local culture, visit ancient temples, and enjoy the picturesque views at your own pace. The journey promises a perfect blend of spirituality and natural splendor.",
+  "destinations": ["Chandigarh", "Dharamshala", "McLeod Ganj", "Dalhousie", "Khajjiar", "Kangra Valley"],
+  "highlights": [
+    "Explore the spiritual seat of the Dalai Lama at Namgyal Monastery in McLeod Ganj.",
+    "Visit the 'Mini Switzerland of India' at Khajjiar's lush meadows.",
+    "Scenic drives through the Dhauladhar foothills and cedar forests.",
+    "Discover the historic colonial architecture and churches of Dalhousie.",
+    "Visit the peaceful Bhagsu Waterfall and the historic Kangra Fort.",
+    "Private cab with experienced mountain driver for a comfortable tour.",
+    "Handpicked premium stays in verified hotels and resorts."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Dharamshala (240 Km, 6-7 Hrs)",
+      "description": "Upon arrival at Chandigarh airport or railway station, our driver will pick you up and take you to Dharamshala. The drive through the Kangra Valley is incredibly scenic. Along the way, you can visit the popular Kangra Fort and the Brajeshwari Temple. On reaching Dharamshala, check into your hotel and freshen up. Spend the evening at your leisure. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 2,
+      "title": "Dharamshala and McLeod Ganj Local Sightseeing",
+      "description": "After breakfast, head for a local tour of Dharamshala and McLeod Ganj. Visit the popular Namgyal Monastery, the residence of the Dalai Lama. Explore the Bhagsu Waterfall and the ancient Bhagsunag Temple. Later, visit the Tibetan Museum and the local market in McLeod Ganj. Return to your hotel for dinner and overnight stay."
+    },
+    {
+      "day": 3,
+      "title": "Dharamshala Local Excursion",
+      "description": "Today, we'll visit more popular attractions in Dharamshala, including the HPCA Stadium, the War Memorial, and the peaceful Dal Lake. You can also visit the Naddi village for panoramic views of the Dhauladhar range. Spend the evening exploring the local Tibetan cafes. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 4,
+      "title": "Dharamshala to Dalhousie (120 Km, 4-5 Hrs)",
+      "description": "After breakfast, check out from your hotel and drive towards Dalhousie. The journey to Dalhousie is filled with beautiful landscapes and winding roads. Upon reaching Dalhousie, check into your hotel and unwind. Spend the evening at your leisure, perhaps taking a walk through the colonial-style markets. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 5,
+      "title": "Dalhousie and Khajjiar Excursion",
+      "description": "Today is all about exploring the beauty of Khajjiar, often referred to as the 'Mini Switzerland of India.' After breakfast, we'll drive to Khajjiar, where you can enjoy the vast green meadows and the cedar forests. Visit the Khajji Nag Temple and enjoy adventure activities like zorbing and paragliding. Return to Dalhousie in the evening for dinner and overnight stay."
+    },
+    {
+      "day": 6,
+      "title": "Dalhousie Local Sightseeing",
+      "description": "After breakfast, visit the popular attractions in Dalhousie, including the Panchpula, Satdhara Falls, and the St. John's Church. You can also visit the Dainkund Peak for a 360-degree view of the mountains. Spend the rest of the day at your leisure. Dinner and overnight stay at the hotel."
+    },
+    {
+      "day": 7,
+      "title": "Dalhousie to Chandigarh Drop (300 Km, 8-9 Hrs)",
+      "description": "On the final day of your tour, have your breakfast and check out from the hotel. Our driver will take you back to Chandigarh and drop you at the airport or railway station for your onward journey. Cherish the memories of your Dharamshala and Dalhousie tour."
+    }
+  ],
+  "inclusions": [
+    "Pickup & Drop.",
+    "6 Nights stay in handpicked hotels.",
+    "Daily Breakfast and Dinner.",
+    "All sightseeing's by individual car.",
+    "All toll taxes, parking fees and driver's allowance.",
+    "Inclusive of all taxes."
+  ],
+  "exclusions": [
+    "Charges for early Check-In & late Check-Out at Hotel.",
+    "Lunch & Snacks.",
+    "Air fare/ train fare.",
+    "Monuments Entrance fees during sightseeing.",
+    "Camera Charges/Rides etc.",
+    "5% Goods And Services Tax(GST)"
+  ],
+  "faqs": [
+    {
+      "question": "What is the best time to visit Dharamshala?",
+      "answer": "Spring (March to June) and Autumn (September to November) are ideal for pleasant weather and clear views."
+    },
+    {
+      "question": "Is Khajjiar accessible in winter?",
+      "answer": "Yes, Khajjiar is beautiful in winter when it's covered in snow, though road access can sometimes be limited during heavy snowfall."
+    }
+  ],
+  "seo": {
+    "title": "Dharamshala Dalhousie Tour Package From Chandigarh | Guru Kripa Travels",
+    "description": "Book our 6 nights 7 days Dharamshala Dalhousie tour package from Chandigarh. Explore McLeod Ganj, Khajjiar, and the Dhauladhar range with a private taxi."
+  }
+}
